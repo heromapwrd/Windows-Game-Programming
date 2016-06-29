@@ -168,10 +168,12 @@ if (!RegisterClass(&winclass))
 // create the window, note the use of WS_POPUP
 if (!(hwnd = CreateWindow(WINDOW_CLASS_NAME,    // class
              "WIN3D Game Console",	// title
-			 WS_POPUP | WS_VISIBLE,
+			 /*WS_POPUP*/WS_OVERLAPPEDWINDOW | WS_VISIBLE,
 			 0,0,	                // initial x,y
-   		     GetSystemMetrics(SM_CXSCREEN),  // intial width
-             GetSystemMetrics(SM_CYSCREEN),  // initial height
+   		     //GetSystemMetrics(SM_CXSCREEN),  // intial width
+             //GetSystemMetrics(SM_CYSCREEN),  // initial height
+			 WINDOW_WIDTH,
+			 WINDOW_HEIGHT,
 			 NULL,	    // handle to parent 
 			 NULL,	    // handle to menu
 			 hinstance,// instance

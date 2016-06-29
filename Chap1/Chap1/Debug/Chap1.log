@@ -5,10 +5,4 @@ c:\program files (x86)\microsoft sdks\windows\v7.1a\include\specstrings_supp.h(7
           d:\visual ultimate studio 2013\vc\include\sal.h(2896) : see previous definition of '__on_failure'
 e:\workspace\vs 2013\windows game programming\chap1\chap1\freakout.cpp(149): warning C4101: 'ps' : unreferenced local variable
 e:\workspace\vs 2013\windows game programming\chap1\chap1\freakout.cpp(148): warning C4101: 'hdc' : unreferenced local variable
-  blackbox.cpp
-c:\program files (x86)\microsoft sdks\windows\v7.1a\include\sal_supp.h(57): warning C4005: '__useHeader' : macro redefinition
-          d:\visual ultimate studio 2013\vc\include\sal.h(2886) : see previous definition of '__useHeader'
-c:\program files (x86)\microsoft sdks\windows\v7.1a\include\specstrings_supp.h(77): warning C4005: '__on_failure' : macro redefinition
-          d:\visual ultimate studio 2013\vc\include\sal.h(2896) : see previous definition of '__on_failure'
-  Generating Code...
   Chap1.vcxproj -> E:\WorkSpace\VS 2013\Windows Game Programming\Chap1\Debug\Chap1.exe
