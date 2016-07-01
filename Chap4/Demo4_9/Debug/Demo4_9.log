@@ -1,0 +1,4 @@
+﻿  demo4_9.cpp
+e:\workspace\vs 2013\windows game programming\chap4\demo4_9\demo4_9.cpp(72): warning C4101: 'buffer' : unreferenced local variable
+e:\workspace\vs 2013\windows game programming\chap4\demo4_9\demo4_9.cpp(253): warning C4101: 'hdc' : unreferenced local variable
+  Demo4_9.vcxproj -> E:\WorkSpace\VS 2013\Windows Game Programming\Chap4\Debug\Demo4_9.exe

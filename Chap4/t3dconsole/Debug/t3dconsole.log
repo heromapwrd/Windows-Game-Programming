@@ -1,0 +1,4 @@
+﻿  t3dconsole.cpp
+e:\workspace\vs 2013\windows game programming\chap4\t3dconsole\t3dconsole.cpp(46): warning C4101: 'buffer' : unreferenced local variable
+e:\workspace\vs 2013\windows game programming\chap4\t3dconsole\t3dconsole.cpp(144): warning C4101: 'hdc' : unreferenced local variable
+  t3dconsole.vcxproj -> E:\WorkSpace\VS 2013\Windows Game Programming\Chap4\Debug\t3dconsole.exe
